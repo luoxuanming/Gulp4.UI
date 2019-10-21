@@ -1,0 +1,8 @@
+{
+  "title": "首页",
+  "current":"index",
+  "children":"index_01",
+  "styles": [],
+  "scripts":[
+  ]
+}
