@@ -11,11 +11,6 @@ const config={
       dev:DEV_DIR,
       dist:DIST_DIR
   },
-  assets:{
-      src:SRC_DIR+'assets/**/*',
-      dev:DEV_DIR+'assets',
-      dist:DIST_DIR+'assets'
-  },
   style:{
       src:SRC_DIR+'style/*.less',  //如果是scss或者css，就改对应的
       dev:DEV_DIR+'css',
